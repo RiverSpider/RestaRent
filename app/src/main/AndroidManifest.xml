@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.RestaRent">
         <activity
+            android:name=".Orders"
+            android:exported="false" />
+        <activity
+            android:name=".AdminActivity"
+            android:exported="false" />
+        <activity
             android:name=".RestList"
             android:exported="false" />
         <activity

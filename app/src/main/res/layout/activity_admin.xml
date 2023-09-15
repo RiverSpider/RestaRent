@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AdminActivity">
+
+    <Button
+        android:id="@+id/addtable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Добавить столик"
+        tools:layout_editor_absoluteX="113dp"
+        tools:layout_editor_absoluteY="104dp" />
+
+    <Button
+        android:id="@+id/orders"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Заказы на сегодня"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="225dp" />
+
+    <Button
+        android:id="@+id/addaddress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Добавить адрес"
+        tools:layout_editor_absoluteX="118dp"
+        tools:layout_editor_absoluteY="350dp" />
+
+    <androidx.constraintlayout.widget.Barrier
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:barrierDirection="top"
+        tools:layout_editor_absoluteX="72dp"
+        tools:layout_editor_absoluteY="51dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>

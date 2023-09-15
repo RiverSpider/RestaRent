@@ -3,10 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/RestaRent/app/src/main/res/layout/activity_admin.xml" value="0.358695652173913" />
         <entry key="..\:/RestaRent/app/src/main/res/layout/activity_guest.xml" value="0.358695652173913" />
         <entry key="..\:/RestaRent/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/RestaRent/app/src/main/res/layout/activity_orders.xml" value="0.18802083333333333" />
         <entry key="..\:/RestaRent/app/src/main/res/layout/activity_reg.xml" value="0.358695652173913" />
         <entry key="..\:/RestaRent/app/src/main/res/layout/activity_rest_list.xml" value="0.25" />
+        <entry key="..\:/RestaRent/app/src/main/res/layout/activity_table_add.xml" value="0.18802083333333333" />
         <entry key="..\:/RestaRent/app/src/main/res/layout/content_scrolling.xml" value="0.358695652173913" />
       </map>
     </option>

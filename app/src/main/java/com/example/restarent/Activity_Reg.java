@@ -8,7 +8,6 @@ import android.view.View;
 import android.widget.Button;
 
 public class Activity_Reg extends AppCompatActivity implements View.OnClickListener{
-
     Button regist;
 
     @Override
